@@ -14,6 +14,7 @@ body {
     background: skyblue;
     max-width: 70%;
     margin: auto;
+    height: auto;
     border: 5px solid lightblue;
     border-radius: 10px;
 }
