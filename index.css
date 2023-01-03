@@ -5,11 +5,14 @@ body {
     font-weight: bold;
     text-align: center;
     height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .container {
     background: skyblue;
-    max-width: 100%;
+    max-width: 60%;
     margin: auto;
     border: 5px solid lightblue;
     border-radius: 10px;
