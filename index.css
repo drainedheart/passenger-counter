@@ -11,6 +11,7 @@ body {
     background: skyblue;
     max-width: 80%;
     margin: auto;
+    margin-top: 20px
     border: 5px solid lightblue;
     border-radius: 10px;
 }
