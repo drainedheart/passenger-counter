@@ -11,9 +11,9 @@ body {
 }
 
 .container {
-    padding: 20px;
+    padding: 10px;
     background: skyblue;
-    max-width: 80%;
+    max-width: 70%;
     margin: auto;
     border: 5px solid lightblue;
     border-radius: 10px;
